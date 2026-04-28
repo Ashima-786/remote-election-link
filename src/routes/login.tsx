@@ -93,7 +93,7 @@ function LoginPage() {
             <div className="text-center text-sm text-muted-foreground">
               New voter? <Link to="/login" className="text-primary-glow hover:underline">Register / Verify</Link>
             </div>
-            <div className="rounded-md bg-warning/10 border border-warning/30 text-xs text-warning-foreground/80 px-3 py-2">
+            <div className="rounded-md bg-warning/15 border border-warning/40 text-xs text-foreground px-3 py-2 font-medium">
               Note: This is a prototype system for academic demonstration.
             </div>
           </form>
